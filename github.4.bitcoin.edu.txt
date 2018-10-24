@@ -1,4 +1,9 @@
 To research about the history of a cryptocurrency project you must learn how to use Github.
 
 Rainbow Coder aka Shiffman has a Youtube series that you can find on:
+
+Video 1
 https://www.youtube.com/watch?v=BCQHnlnPusY&index=2&t=0s&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
+Video 2
+https://www.youtube.com/watch?v=oPpnCh7InLY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=2
